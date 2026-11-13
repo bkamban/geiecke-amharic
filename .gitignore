@@ -1,0 +1,9 @@
+.streamlit/
+transcripts/
+metadata/
+backups/
+.env
+*.env
+__pycache__/
+*.pyc
+*env/
